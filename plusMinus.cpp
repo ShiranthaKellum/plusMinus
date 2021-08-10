@@ -1,3 +1,6 @@
+
+//This program calculate positive , negative and zero ratio of a given list
+
 #include <iostream>
 #include <iomanip>                                  // library for print custom decimal points
 
